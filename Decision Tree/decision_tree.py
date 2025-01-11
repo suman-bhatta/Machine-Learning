@@ -1,10 +1,10 @@
 """Read and print the data set:"""
 
-# import pandas
+import pandas
 
-# df = pandas.read_csv("data.csv")
+df = pandas.read_csv("data.csv")
 
-# print(df)
+print(df)
 
 
 "Change string values into numerical values:"
